@@ -25,6 +25,6 @@
 - hamcrest-core-1.3.jar
 - junit-4.13.2.jar
 ## Build
-### Using Pipeline Setup Through GitHub
+### Using Pipeline Setup Through GitHub (maven)
 ### mvn clean javafx:run
 ### mvn clean test
